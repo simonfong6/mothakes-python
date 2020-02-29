@@ -1,5 +1,10 @@
 import json
 
+def hello():
+    """Says hello from Simon Fong"""
+    msg = "Hello from Simon Fong!"
+    print(msg)
+
 def dumps(obj):
     obj_str = json.dumps(
         obj,
