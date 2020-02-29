@@ -1,5 +1,7 @@
 import json
 
+__version__ = '0.0.2'
+
 def hello():
     """Says hello from Simon Fong"""
     msg = "Hello from Simon Fong!"
