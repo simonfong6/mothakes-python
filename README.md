@@ -1,2 +1,2 @@
 # mothakes-python
-Python utility package for all my Python projects
+Python utility package for all my Python projects.
